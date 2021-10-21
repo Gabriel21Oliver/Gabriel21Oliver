@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate on ... Get knowledge
 - 🤔 I’m looking for help with ...  Progamaçao pois sou iniciante 
 - 💬 Ask me about ...
-- 📫 How to reach me: ... pelas minhas redes socias
+- 📫 How to reach me: ... pelas minhas redes sociais ou pelo meu email
+- vitor.leal3028@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... Tudo
 
