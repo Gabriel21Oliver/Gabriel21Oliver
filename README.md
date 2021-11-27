@@ -9,7 +9,7 @@
 - 📫 How to reach me: ... pelas minhas redes sociais ou pelo meu email
 - vitor.leal3028@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... Tudo
+- ⚡ Fun fact: ... todas as as liguas de progamação 
 
 ##
 
