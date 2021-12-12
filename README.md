@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...machine operator
+- 🔭 I’m currently working on ...Suporte de T.I no  Shopping  Partage  
 - 🌱 I’m currently learning ... Jarva NetBens Eclps
 - 👯 I’m looking to collaborate on ... Get knowledge
 - 🤔 I’m looking for help with ...  Progamaçao pois sou iniciante 
 - 💬 Ask me about ...
 - 📫 How to reach me: ... pelas minhas redes sociais ou pelo meu email
 - vitor.leal3028@gmail.com
-- 😄 Pronouns: ...
+- 😄 Lema nunca desista daquilo que mais ama
 - ⚡ Fun fact: ... todas as as liguas de progamação 
 
 ##
