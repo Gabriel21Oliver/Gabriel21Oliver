@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...Suporte de T.I no  Shopping  Partage  
+- 🔭 I’m currently working on ...Suporte de T.I  Shopping  
 - 🌱Um verdadeiro Mestre é um eterno aprendiz 
 - 👯 O Famoso mineiro  curioso  ... uai so 
 - 🤔 No meio da dificuldade encontra-se a oportunidade.
