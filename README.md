@@ -1,6 +1,6 @@
 ## Oiii eu sou o Gabriel Vitor, amante de programação e tecnologia!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
+
 
 
 <div style="display: inline_block"><br>
