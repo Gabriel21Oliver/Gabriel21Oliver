@@ -20,5 +20,42 @@
   <a href="https://www.instagram.com/gabriel_user.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:vitor.leal3028@gmailcom"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-oliveira-741715202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+
 </div>
+
+<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+
+
+<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in  Information system. 😊</br>
+</em></p>
+
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
+</br></br>
+<h2>💻 Some stats 💻</h2>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+---
