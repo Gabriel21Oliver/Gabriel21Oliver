@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+
 
 
 <p><em>A bachelor student  majoring in  Information system. 😊</br>
