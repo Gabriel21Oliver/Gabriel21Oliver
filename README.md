@@ -17,8 +17,8 @@ Sou um entusiasta apaixonado por tecnologia, buscando constantemente expandir me
 -Aprendendo <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 
    <div style="display: inline_block">
-- Explorando <img align="center" alt-"gabriel-CSS" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white.svg">
-- Experimentando com  <img align="center" alt="gabriel -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+- Explorando <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white.svg">
+- Experimentando com <img align="center" alt="gabriel -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 #### 📚 Objetivos:
 - Desenvolver aplicações incríveis
