@@ -1,4 +1,7 @@
-## Oiii eu sou o Gabriel Vitor, amante de programação e tecnologia!
+## Oiii eu sou o Gabriel Vitor
+
+Sou um entusiasta apaixonado por tecnologia, buscando constantemente expandir meus conhecimentos em programação. Atualmente embarcando na emocionante jornada de aprendizado, estou dedicado a explorar diferentes linguagens de programação e aprofundar minha compreensão sobre o vasto mundo do desenvolvimento de software.
+
  
   ## Tecnologias que eu uso no meu dia
 
@@ -8,6 +11,26 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br/>
+
+#### 💻 Habilidades em Desenvolvimento:
+<div style="display: inline_block">
+-Aprendendo <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+
+   <div style="display: inline_block">
+- Explorando <img align="center" alt-"gabriel-CSS" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white.svg">
+- Experimentando com  <img align="center" alt="gabriel -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+#### 📚 Objetivos:
+- Desenvolver aplicações incríveis
+- Contribuir para projetos de código aberto
+- Conectar com outros entusiastas da programação
+
+#### 🌱 Atualmente Aprendendo:
+- Estruturas de Dados e Active diretory Servidor 
+- Desenvolvimento Web (Front-end)
+
+Se você compartilha do mesmo entusiasmo pela programação ou tem dicas valiosas para compartilhar, ficarei feliz em trocar ideias e experiências. Vamos aprender juntos!
+
   
  ## Minhas Redes de contato
 <div> 
