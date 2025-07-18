@@ -49,7 +49,7 @@ Turning ideas into reality through software has always been my goal. My journey 
 ## ⭐️ &nbsp;GitHub Stats
 
 <a href="https://github.com/Gabriel21Oliver">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturbomtempo-dev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielOliveira-dev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturbomtempo-dev&layout=compact&langs_count=6&theme=merko"/>
 </a>
 
