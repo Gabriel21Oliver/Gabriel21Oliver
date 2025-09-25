@@ -63,3 +63,27 @@ Turning ideas into reality through software has always been my goal. My journey 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
+---
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Gabriel21Oliver/Projeto-pessoal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel21Oliver&repo=Projeto-pessoal&theme=merko" />
+  </a>
+  <a href="https://github.com/Gabriel21Oliver/Arduino-sensor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel21Oliver&repo=Arduino-sensor&theme=merko" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gabriel21Oliver/Aulinha-de-Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel21Oliver&repo=Aulinha-de-Python&theme=merko" />
+  </a>
+  <a href="https://github.com/Gabriel21Oliver/Pet-care">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel21Oliver&repo=Pet-care&theme=merko" />
+  </a>
+</p>
+
+---
+
